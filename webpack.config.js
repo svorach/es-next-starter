@@ -11,6 +11,7 @@ module.exports = {
     filename: 'bundle.js',
     publicPath: 'http://localhost:3001/dist'
   },
+  mode: 'development',
   module: {
     rules: [
       {
